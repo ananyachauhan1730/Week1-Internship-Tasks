@@ -10,7 +10,31 @@ Collection of prompts for different business domains such as Marketing, Finance,
 
 ## Task 3: AI Automation Workflow
 
-Design and documentation of an AI-powered automation workflow using no-code automation concepts.
+### Use Case
+
+Automated Lead Collection System
+
+### Tools Used
+
+* Google Forms
+* Google Sheets
+* Zapier
+
+### Workflow Logic
+
+1. User submits information through Google Forms.
+2. Data is automatically stored in Google Sheets.
+3. Zapier detects the new entry.
+4. The workflow processes the information automatically.
+5. A confirmation email is sent to the user.
+
+### Benefits
+
+* Saves time
+* Reduces manual work
+* Improves efficiency
+* Faster communication
+* Better data management
 
 ## Demo Video
 
